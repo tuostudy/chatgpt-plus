@@ -1,0 +1,1 @@
+import{y as u,A as i,ah as o}from"./index-4223df14.js";function a(){const t=u(),e=i();function s(n){e.setActived(n),t.settings.menu.switchMainMenuAndPageJump&&o.push(e.sidebarMenusFirstDeepestPath)}return{switchTo:s}}export{a as u};
