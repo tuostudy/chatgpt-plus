@@ -32,6 +32,7 @@ Midjourney绘画支持
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持邮件激活账号</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持上下文对话</li>
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持文件分析，图片分析</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持微信登录</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 精准统计绘画token、记录所有用户消费排行</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持模糊匹配自定义回复消息</li>
@@ -50,3 +51,15 @@ Midjourney绘画支持
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持多级权限区分，普通演示账号无编辑删除等权限且不能查阅详情的敏感信息比如邮箱！</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持特定用户有权访问4.0API，指定名单访问指定模型</li>
 </ul>
+
+## 授权与完整源码
+授权版：499（不要试图破解，非授权是哥定时炸弹，会免费帮我打广告）
+
+完整源码（限时本月）：5000，后续每个月会涨价1000-2000不等
+
+后续的任何更新都是免费，不会另外收费
+
+购买请联系微信：
+![38fc2fab91d0b099d4f5133b391aff3](https://github.com/sfvsfv/ChatGPT-PLus/assets/62045791/dae13282-cf17-4f91-b0a0-5ccf7bad2e24)
+
+
