@@ -53,6 +53,15 @@ Midjourney绘画支持
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持特定用户有权访问4.0API，指定名单访问指定模型</li>
 </ul>
 
-## 联系微信：hxgsrubxjogxeeag   
+## 关于是否有付费更新版本？
+是的，后续我会更新相关插件，后续版本更新的效果见我的网站：https://hi.zhangsan.cloud
+
+联系微信：hxgsrubxjogxeeag   
+
+QQ群：
+
+![e1ae4b9c1dd501bc175ec54c5376be6](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/ce0e0d12-a487-437b-ae24-f94787305ac4)
+
+
 
 
