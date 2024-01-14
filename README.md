@@ -60,7 +60,7 @@ Midjourney绘画支持
 
 后续的任何更新都是免费，不会另外收费
 
-购买请联系微信：
-![38fc2fab91d0b099d4f5133b391aff3](https://github.com/sfvsfv/ChatGPT-PLus/assets/62045791/dae13282-cf17-4f91-b0a0-5ccf7bad2e24)
+购买请联系微信：hxgsrubxjogxeeag   
+备注来意~
 
 
