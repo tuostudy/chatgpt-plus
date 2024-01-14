@@ -53,14 +53,6 @@ Midjourney绘画支持
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持特定用户有权访问4.0API，指定名单访问指定模型</li>
 </ul>
 
-## 授权与完整源码
-授权版：499（不要试图破解，非授权是定时炸弹，会免费帮我打广告）
-
-完整源码（限时本月）：5000，后续每个月会涨价1000-2000不等
-
-后续的任何更新都是免费，不会另外收费
-
-购买请联系微信：hxgsrubxjogxeeag   
-备注来意~
+## 联系微信：hxgsrubxjogxeeag   
 
 
