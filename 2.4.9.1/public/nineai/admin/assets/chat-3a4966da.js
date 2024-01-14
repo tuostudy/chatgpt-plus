@@ -1,1 +1,0 @@
-import{Y as t}from"./index-4223df14.js";const a={queryChatAll:r=>t.get("chatLog/chatAll",{params:r}),queryDrawAll:r=>t.get("chatLog/drawAll",{params:r}),recDrawImg:r=>t.post("chatLog/recDrawImg",r),queryMjDrawAll:r=>t.get("midjourney/getList",{params:r}),recMjDrawImg:r=>t.post("midjourney/rec",r),delChatLog:r=>t.post("midjourney/del",r)};export{a as A};

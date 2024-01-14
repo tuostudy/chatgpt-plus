@@ -1,1 +1,0 @@
-import{Y as i}from"./index-4223df14.js";const s={getBaseInfo:t=>i.get("/statistic/base",{params:t}),getChatStatistic:t=>i.get("/statistic/chatStatistic",{params:t}),getBaiduVisit:t=>i.get("/statistic/baiduVisit",{params:t})};export{s as default};
